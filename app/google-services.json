@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "754920010935",
+    "firebase_url": "https://testmensajes-d9d0a.firebaseio.com",
+    "project_id": "testmensajes-d9d0a",
+    "storage_bucket": "testmensajes-d9d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754920010935:android:5fd94327caec3e87",
+        "android_client_info": {
+          "package_name": "ar.edu.utn.frsf.testmensajes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754920010935-8pr4hv5rfd7do0011udq9vsln2l6cr0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZfVVmnQm9CNKu-gTPsnKNiX9vKvqlnw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
